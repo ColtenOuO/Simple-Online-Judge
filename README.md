@@ -1,6 +1,14 @@
 # Simple-Online-Judge
 一個簡單的線上評測系統
 
+## Environment Request
+
+- Python 3.6 up
+
+## Before Start
+
+- pip install paramiko
+
 ## Step
 
 - [ ] SSH connect testing
